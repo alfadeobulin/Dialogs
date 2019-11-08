@@ -1,0 +1,7 @@
+#Fri Nov 08 18:30:39 ICT 2019
+base.0=E\:\\Semester 5\\Pemrograman Mobile\\setelah UTS\\Tugas9-master\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\Semester 5\\Pemrograman Mobile\\setelah UTS\\Tugas9-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
